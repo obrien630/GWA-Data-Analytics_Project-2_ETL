@@ -1,5 +1,6 @@
 -- Create Database to import csv into
--- CREATE DATABASE School_populations_and_shootings;
+CREATE DATABASE School_populations_and_shootings;
+
 USE school_populations_and_shootings;
 
 SELECT * FROM census_school_populations;
